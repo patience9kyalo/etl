@@ -1,6 +1,6 @@
 # ETL
 
-A Jupyter Notebook project for extracting, transforming, and loading data.
+A Jupyter Notebook project for extracting, transforming, and loading data using APIs.
 
 ## Getting Started
 
